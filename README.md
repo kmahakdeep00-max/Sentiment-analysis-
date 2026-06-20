@@ -19,4 +19,9 @@ To make the findings clear, I plotted a comparison graph of all models. The visu
 
 Beyond technical implementation, the project gave me valuable learning. I realized how preprocessing directly affects accuracy, how feature extraction changes the way models interpret text, and how different algorithms behave with the same dataset. More importantly, I learned to think critically about why one model performs better than another.
 
-In conclusion, this project was more than just coding — it was about connecting theory with practice. It gave me confidence in handling NLP tasks and showed me how sentiment analysis can be applied in real‑world scenarios like customer feedback, product reviews, and social media monitoring. Logistic Regression with TF‑IDF proved to be the most reliable approach, and this insight will guide me in future projects.
+In conclusion, this project was more than just coding — it was about connecting theory with practice. It gave me confidence in handling NLP tasks and showed me how sentiment analysis can be applied in real‑world scenarios like customer feedback, product reviews, and social media monitoring. Logistic Regression with TF‑IDF proved to be the most reliable approach, and this insight will guide me in future projects. 
+
+
+#output
+
+<img width="978" height="610" alt="Image" src="https://github.com/user-attachments/assets/48b73706-ba77-4ade-a701-5250aa3f2789" />
